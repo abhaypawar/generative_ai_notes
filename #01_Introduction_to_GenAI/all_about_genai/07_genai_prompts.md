@@ -206,7 +206,7 @@ In 2025, **dynamic system prompts** are being heavily researched.
 
 ---
 
-# 📚 Further Learning Topics (If you want)
+# 📚 Learning Topics
 
 - **Function Calling in LLMs**
 - **RAG pipelines with prompt templates**
@@ -214,14 +214,6 @@ In 2025, **dynamic system prompts** are being heavily researched.
 - **Self-healing prompts**
 - **Agents orchestration prompts**
 
----
-
-Of course!  
-I'll cover **each of these** topics (`Function Calling`, `RAG`, `Multi-modal Prompt Chaining`, `Self-healing Prompts`, `Agents Orchestration`) in a super detailed, nerd-approved **Markdown format**, just like you want — **full depth**, **latest as of 2025**, and **copy-paste ready**.
-
----
-
-```markdown
 # 🚀 Deep Dive into Advanced Prompt Techniques (2025 Nerdified)
 
 ---
